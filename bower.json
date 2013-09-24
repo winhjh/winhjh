@@ -1,0 +1,15 @@
+{
+  "name": "winhjh",
+  "version": "1.0.0",
+  "main": "jquery.lib.winhjh.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
